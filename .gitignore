@@ -1,0 +1,20 @@
+# Backend
+01-backend/**/target/
+01-backend/**/*.p12
+01-backend/**/*.jks
+01-backend/**/application-local.properties
+
+# Frontend
+02-frontend/**/node_modules/
+02-frontend/**/dist/
+02-frontend/**/ssl-localhost/
+02-frontend/**/*.key
+02-frontend/**/*.crt
+
+# IDE
+**/.idea/
+**/.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
