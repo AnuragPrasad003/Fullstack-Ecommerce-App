@@ -1,0 +1,20 @@
+.btn-remove {
+  background-color: transparent;
+  border: 1px solid #dc3545;   /* bootstrap danger red */
+  color: #dc3545;
+}
+
+.btn-remove:hover {
+  background-color: #dc3545;
+  color: white;
+  border-color: #dc3545;
+}
+
+.btn-checkout {
+  border: 1px solid rgb(11, 127, 211);   
+  border-color: rgb(11, 127, 211);
+  background-color: rgb(11, 127, 211);
+  color: white;
+}
+
+
